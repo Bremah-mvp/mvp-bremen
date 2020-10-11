@@ -103,7 +103,7 @@ margin: 0.1em 0;
 
 .card-body {
     /* background color will be darkgrey */
-    background-color: darkgray;
+    background-color: transparent;
 
     /* text color set to red */
     color: red;
