@@ -6,7 +6,7 @@ attached to my designated carrier.
   I had to create a listing and sketch of how i wanted my application to be presented. collecting 
   of all the necessary data i need and correspond them to years tied to spwcific data.
 
-                         TOOLS USED TO CREATE MY WEB APP.
+                         TOOLS USED TO CREATE MY WEBSITE.
 
 HTML 
 It is the standard markup language for documents designed to be displayed in a web browser I used html to design the structure or the first layout of the application
