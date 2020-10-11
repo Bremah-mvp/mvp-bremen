@@ -1,0 +1,182 @@
+body {
+/* body attributes */
+    background-image: url(./assets/bremah4.jpg);
+    box-sizing: content-box;
+    border: 100ch;
+    background-color:none;
+    box-sizing: content-box;
+    font-style: normal;
+    color:whitesmoke;
+
+    
+    }
+
+.body-content {
+    /* body attributes */
+    background-image: url(./assets/bremah.jpg);
+    box-sizing: content-box;
+    border: 100ch;
+    background-color:none;
+    box-sizing: content-box;
+    font-style: normal;
+    color: black;
+
+
+}
+
+.body-content2 {
+    /* body attributes */
+    background-image: url(./assets/code2.jpg);
+    box-sizing: content-box;
+    border: 100ch;
+    background-color:none;
+    box-sizing: content-box;
+    font-style: normal;
+    color: black;
+    font-style: normal;
+    font-weight: bolder;
+}
+ /* nav-wrapper background-color will be mediumslateblue */ 
+.nav-wrapper {
+    background-color:mediumslateblue;
+  
+
+}
+
+h1,
+h2,
+h3,
+p {
+  margin-bottom: 20px;
+}
+
+
+
+/* paragraph one attributes */
+.para-1 {
+font-weight: bolder;
+font-weight: 900;
+font-family: 'Times New Roman', Times, serif;
+font-size: 0.6cm;
+color:blue;
+margin: 0.1em 0;
+}
+
+.text1-center {
+    /* text will appear center */
+    text-align: center;
+   
+}
+
+.form-group {
+    /* security questions */
+    font-style: normal;
+    font-weight: bolder;
+    font-size: x-large;
+
+}
+
+.contact-1 {
+    text-decoration: underline;
+}
+
+
+.pg {
+    /* background color will be blue */
+    color: blue;
+    font-weight: bolder;
+    font-style: italic;
+    border-color: black;
+}
+
+.card {
+    /* card attributes, background-color will be black */
+    background-color: black;
+    font-family: 'Times New Roman', Times, serif;
+    color: cornsilk;
+    
+}
+.footer {
+    /* footer will be transparent */
+  text-align: center;
+}
+
+.card-body {
+    /* background color will be darkgrey */
+    background-color: darkgray;
+
+    /* text color set to red */
+    color: red;
+}
+
+.footer-body {
+    /* footer attributes */
+    background-color: black;
+    font-style: italic;
+    font-weight: bold;
+    padding-left: 20cm ocm;
+    text-align: center;
+
+
+}
+
+.footer1-body {
+    /* footer1 attributes */
+text-align: center;
+    background-color: none;
+    font-style: italic;
+    font-weight: bolder;
+    padding-left: 20cm 0cm;
+    color: white;
+
+}
+
+.footer2-body {
+
+    /* footer2 attributes */
+    background-color: black;
+    font-style: italic;
+    font-weight: bolder;
+    padding-left: 20cm 0cm;
+    color: white;
+
+}
+
+.page-footer {
+    text-align: center;
+   
+}
+
+.footer-copyright {
+    margin: 10px;
+    
+    text-align: center;
+
+}
+#main-container {
+    padding-top: 130px;
+    min-height: calc(100vh - 70px);
+    background-color:none;
+    text-decoration-style: solid;
+  }
+
+
+.main-section {
+    text-align: center;
+    align-content: center;
+    background-color: none;
+  }
+
+
+/* resolution of different screen sizes set */
+@media screen and (max-width:980px, 768px, 640px) {
+    /* The body's bg color will be #333 */
+    body {
+      background-color: #333;
+    }
+  
+    /* The wrapper's width will be 600px */
+    .wrapper {
+      width: 600px;
+    }
+  }
