@@ -156,7 +156,7 @@ text-align: center;
 #main-container {
     padding-top: 130px;
     min-height: calc(100vh - 70px);
-    background-color:none;
+    background-color:transparent;
     text-decoration-style: solid;
   }
 
