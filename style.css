@@ -167,6 +167,14 @@ text-align: center;
     background-color: none;
   }
 
+  .sub-container {
+ 
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    font-style: italic;
+    font-size: xx-large;
+  }
+
 
 /* resolution of different screen sizes set */
 @media screen and (max-width:980px, 768px, 640px) {
