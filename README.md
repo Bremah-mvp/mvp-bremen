@@ -22,7 +22,7 @@ One of the most import aspects of bootstrap it enables a Mobile First design. Us
  When the user loads the app, it all the information  about it me, user can then navigate through the different pages, on my web application consisting the about me page , showing my person data.
  My portfolio shows different projects i have created. and contact page with my github, linkedin and email for contact.
 
- Here's a link to my web appliaction : https://bremah-mvp.github.io/Responsive-Portfolio-Updated/
+ Here's a link to my web appliaction : https://bremah-mvp.github.io/mvp-bremen/
 
  BELOW IS A SNAPSHOT OF HOW THE APPLICATION LOOKS LIKE:
  ![picture](https://github.com/Bremah-mvp/Responsive-Portfolio-Updated/blob/master/assets/snap.png)                    
